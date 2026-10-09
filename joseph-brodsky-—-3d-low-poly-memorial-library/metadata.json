@@ -1,0 +1,6 @@
+{
+  "name": "Joseph Brodsky — 3D Low-Poly Memorial Library",
+  "description": "Interactive low-poly 3D tribute to Joseph Brodsky, 1987 Nobel laureate in Literature and U.S. Poet Laureate, featuring a 90s St. Petersburg library, etched works, and 3D orbit controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
